@@ -9,7 +9,7 @@ import (
 	"strconv"
 	"time"
 
-	"github.com/jeromer/syslogparser"
+	"github.com/leveros/syslogparser"
 )
 
 const (
